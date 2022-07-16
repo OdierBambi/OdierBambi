@@ -1,5 +1,2 @@
-<div align="center">
-    <img width="10%" src="https://github.githubassets.com/images/mona-loading-dimmed.gif"/>
-    <br/>
-    <p>One moment please...</p>
-</div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=OdierBambi&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=OdierBambi&show_icons=true&hide_border=true&theme=tokyonight">
